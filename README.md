@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Jamernacht99, James L.
-- 👀 I’m interested in learning more about programming and database management.
-- 🌱 I’m currently studying Information Technology with a focus on Cyber Security.
-- 📫 How to reach me: lamjs@mail.uc.edu
+- Hi, I’m @Jamernacht99, James L.
+- I’m interested in learning more about programming and database management. 
+- I’m currently studying Cyber Security in CECH at U.C.
+- This is collection of class projects that I've migrated over for reference.
+- My school email is lamjs@mail.uc.edu.
 
 <!---
 Jamernacht99/Jamernacht99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
